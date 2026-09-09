@@ -16,7 +16,7 @@ This repository contains my internship report, presentation, and completion cred
 | **Programme** | B.Tech CSE, Batch 2024–2028 |
 | **Internship Domain** | Software Engineering & Architecture |
 | **Duration** | 4 Weeks |
-| **GitHub** | @vt2812 |
+| **GitHub** | [@vt2812](https://github.com/vt2812) |
 
 ---
 
@@ -99,63 +99,57 @@ The e-commerce platform was designed with core features such as **user registrat
 | **Field** | **Details** |
 | --------------------- | ---------------------------------------------- |
 | **Certificate Title** | Certificate of Completion – Lead Software Engineer, hyderabad, in |
+| **Certificate ID:** | YI/2026/184183/409162 |
 | **Issued By** | YuvaIntern |
 | **Signed By** | Kounal Gupta, Founder, YuvaIntern|
 | **Issue Date** | September 01, 2026 |
 | **Offer Letter Date** | August 04, 2026 |
 
+---
+
 ### 🔗 Reference Links
 
 - **Official Website:** https://yuvaintern.com.
-- **GitHub Repository:** [https://github.com/YourGitHubUsername/YourRepository](https://github.com/YourGitHubUsername/YourRepository)
-- **Internship Program:** [AICTE – EduSkills Virtual Internship Program](https://internship.aicte-india.org/)
+- **GitHub Repository:** https://github.com/vt2812/2024-28_Vineet_Tiwari_241003106_5th_Semester_3CSE19.
 
 ---
 
-## 📊 Performance Testing Approach
+### 📁 Repository Contents
 
-The final week's work focused on ensuring that the platform can continue operating effectively under high traffic.
-
-The planned testing cycle is:
-
-**Baseline → Load Test → Analyze Metrics → Identify Bottleneck → Optimize → Re-test → Compare Results**
-
-The major performance metrics considered include:
-
-- Response time
-- Throughput
-- Error rate
-- CPU and memory usage
-- Database performance
-- Cache performance
-- Message queue health
-- Recovery time
+├── Internship_Report_Vineet_Tiwari.docx     # Full internship report 
+├── PPT_YuvaIntern_Internship_VT.pptx        # Presentation deck
+├── Certificate_of_Internship.png            # Completion certificate
+├── Internship_Offer_Letter.png              # Offer letter
+└── README.md                                # This file
 
 ---
 
-## 📁 Internship Reports
+## 📄 Report Structure
 
-| **Week** | **Report** |
-|----------|------------|
-| Week 1 | Scalable Software Architecture |
-| Week 2 | Project Implementation Plan |
-| Week 3 | Code Review & Quality Assurance |
-| Week 4 | Performance Testing & Optimization |
+1. Candidate's Declaration
+2. Acknowledgement
+3. Internship Completion Certificate
+4. Project Description
+   - 4.1 Introduction
+   - 4.2 Organization Profile
+   - 4.3 Problem Statement
+   - 4.4 Project Objectives
+   - 4.5 Scope of the Project
+   - 4.6 Technologies and Tools Used
+   - 4.7 System Architecture
+   - 4.8 Methodology
+   - 4.9 Expected Outcomes
+   - 4.10 Certificates of Completion and Communication Proof
+5. Bibliography/References
 
 ---
 
-## 🎓 Learning Outcomes
+## 🙏 Acknowledgement
 
-Through these four weeks, I gained practical exposure to different stages of software development, from **system architecture and project planning to code quality and performance engineering**.
+I would like to thank the **YuvaIntern Virtual Internship Program** team and the organization associated with the internship for providing me with the opportunity to gain practical exposure as a **Lead Software Engineer**.
 
-The internship helped me understand how individual technical decisions affect the scalability, security, maintainability, and performance of a larger software system. It also provided a better understanding of how software engineering activities are connected throughout the development lifecycle.
+I am also grateful to **IILM University, Greater Noida** for its continuous support and guidance throughout the internship programme. This internship helped me strengthen my understanding of software engineering, architecture, project planning, code quality, testing, and performance optimization.
 
 ---
 
-## 👨‍💻 Internship Project
-
-**Project:** Scalable E-Commerce Platform  
-**Architecture:** Microservices  
-**Domain:** E-Commerce / Software Engineering  
-**Duration:** 4 Weeks  
-**Focus:** Architecture · Planning · Code Review · Quality Assurance · Performance Testing
+**Vineet Tiwari** · B.Tech CSE · IILM University, Greater Noida
