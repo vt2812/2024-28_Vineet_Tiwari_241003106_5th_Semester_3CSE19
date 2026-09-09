@@ -56,38 +56,6 @@ The e-commerce platform was designed with core features such as **user registrat
 
 ---
 
-## 📋 Major Deliverables
-
-### Week 1 — Architecture Design
-- Architecture overview
-- Microservice descriptions
-- Data flow diagrams
-- Technology and tool justification
-- Security measures
-
-### Week 2 — Project Plan
-- Project overview
-- Detailed task breakdown
-- Resource allocation
-- Project timeline and milestones
-- Risk management plan
-
-### Week 3 — Code Review & QA
-- Identified issues and impact
-- Proposed fixes and improvements
-- Coding practice recommendations
-- QA test cases
-- Code review checklist
-
-### Week 4 — Performance Testing
-- Performance testing strategy
-- Detailed testing procedures
-- Expected outcomes and interpretation
-- Performance optimization plan
-- Performance testing cycle
-
----
-
 ## 🛠️ Technologies & Tools
 
 `Microservices Architecture` · `REST APIs` · `Spring Boot` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `Git` · `API Gateway` · `Message Broker` · `k6 / JMeter` · `React`
@@ -117,11 +85,11 @@ The e-commerce platform was designed with core features such as **user registrat
 ### 📁 Repository Contents
 
 ```text
-├── Internship_Report_VT.pdf                  # Full internship report
-├── Internship_Presentation_VT.pdf            # Presentation deck
-├── Internship_Completion_Certificate_VT.pdf  # Completion certificate
-├── Internship_Offer_Letter_VT.pdf            # Offer Letter
-└── README.md                                 # This file
+├── Internship_Report_Vineet_Tiwari.pdf                  # Full internship report
+├── Internship_Presentation_Vineet_Tiwari.pdf            # Presentation deck
+├── Internship_Completion_Certificate_Vineet_Tiwari.pdf  # Completion certificate
+├── Internship_Offer_Letter_Vineet_Tiwari.pdf            # Offer Letter
+└── README.md                                            # This file
 ```
 ---
 
