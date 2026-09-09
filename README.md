@@ -94,7 +94,7 @@ The e-commerce platform was designed with core features such as **user registrat
 
 ---
 
-## 🏆 Certification
+## 🏆 Certification & Credentials
 
 | **Field** | **Details** |
 | --------------------- | ---------------------------------------------- |
@@ -116,12 +116,13 @@ The e-commerce platform was designed with core features such as **user registrat
 
 ### 📁 Repository Contents
 
-├── Internship_Report_Vineet_Tiwari.docx     # Full internship report 
-├── PPT_YuvaIntern_Internship_VT.pptx        # Presentation deck
-├── Certificate_of_Internship.png            # Completion certificate
-├── Internship_Offer_Letter.png              # Offer letter
-└── README.md                                # This file
-
+```text
+├── Internship_Report_VT.pdf                  # Full internship report
+├── Internship_Presentation_VT.pdf            # Presentation deck
+├── Internship_Completion_Certificate_VT.pdf  # Completion certificate
+├── Internship_Offer_Letter_VT.pdf            # Offer Letter
+└── README.md                                 # This file
+```
 ---
 
 ## 📄 Report Structure
